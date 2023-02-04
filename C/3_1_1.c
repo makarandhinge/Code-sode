@@ -3,6 +3,7 @@
 int main() 
 {
 int a, b;
+printf("Makarand Hinge")
 printf("enter two values \n");
 scanf("%d %d",&a,&b);
 printf("before swapping\n");
